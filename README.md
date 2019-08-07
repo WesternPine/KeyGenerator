@@ -8,7 +8,7 @@ In the case of Bitcoin, the private key would your personal identitifier that yo
 
 ## [The Video (Click Me)](https://www.youtube.com/watch?v=OYmvuhosT9c)
 
-  - [Bitcoinj](Where i got the Base58 encoder)
+  - [Bitcoinj(Where i got the Base58 encoder)](https://www.youtube.com/redirect?redir_token=4XmwJAHfS-XFSzHx9zccMAyi7kN8MTU2NTI3OTMzN0AxNTY1MTkyOTM3&q=https%3A%2F%2Fgithub.com%2Fbitcoinj%2Fbitcoinj&event=video_description&v=OYmvuhosT9c)
   - [Bitcoin Trading View](https://www.youtube.com/redirect?redir_token=4XmwJAHfS-XFSzHx9zccMAyi7kN8MTU2NTI3OTMzN0AxNTY1MTkyOTM3&q=https%3A%2F%2Fwww.tradingview.com%2Fchart%2F%3Fsymbol%3DBITSTAMP%253ABTCUSD&event=video_description&v=OYmvuhosT9c)
   - [Bitcoin Information](https://www.youtube.com/redirect?redir_token=4XmwJAHfS-XFSzHx9zccMAyi7kN8MTU2NTI3OTMzN0AxNTY1MTkyOTM3&q=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FBitcoin&event=video_description&v=OYmvuhosT9c)
   - [Cryptocurrency Wallet Information](https://www.youtube.com/redirect?redir_token=4XmwJAHfS-XFSzHx9zccMAyi7kN8MTU2NTI3OTMzN0AxNTY1MTkyOTM3&q=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FCryptocurrency_wallet&event=video_description&v=OYmvuhosT9c)
